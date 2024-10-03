@@ -25,11 +25,10 @@ The Histogram of gray scale image and color image is shown.
 
 
 ## Program:
-``
 # Developed By: BALAJI J
 # Register Number: 212221243001
 
-``
+```
 import cv2
 import numpy as np
 from matplotlib import pyplot as plt
@@ -67,11 +66,6 @@ plt.xlim([0, 256])
 
 plt.tight_layout()
 plt.show()
-
-
-
-
-
 ```
 ## Output:
 ### Input Grayscale Image and Col
