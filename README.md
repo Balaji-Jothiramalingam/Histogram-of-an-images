@@ -1,4 +1,4 @@
-![325461226-b7e9e2ba-38a0-483e-8dff-1a40a536579a](https://github.com/user-attachments/assets/cf746187-b39e-4f82-81d3-e691df95180e)# Histogram-of-an-images
+
 ## Aim
 To obtain a histogram for finding the frequency of pixels in an Image with pixel values ranging from 0 to 255. Also write the code using OpenCV to perform histogram equalization.
 
@@ -25,11 +25,11 @@ The Histogram of gray scale image and color image is shown.
 
 
 ## Program:
-```python
+``
 # Developed By: BALAJI J
 # Register Number: 212221243001
 
-```
+``
 import cv2
 import numpy as np
 from matplotlib import pyplot as plt
@@ -72,7 +72,7 @@ plt.show()
 
 
 
-`
+```
 ## Output:
 ### Input Grayscale Image and Col
 
